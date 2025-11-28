@@ -1,1 +1,4 @@
-Requisiitos:
+-Requisitos:
+-> Crear Mas Piratas
+-> Los Piratas tiene +100 de vida
+-> Hacer el código mas sencillo
