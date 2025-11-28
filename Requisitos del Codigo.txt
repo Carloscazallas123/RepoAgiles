@@ -2,3 +2,4 @@
 -> Crear Mas Piratas
 -> Los Piratas tiene +100 de vida
 -> Hacer el código mas sencillo
+-->Revivir lo barcos muertos como muertos barcos revividos
